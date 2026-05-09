@@ -31,7 +31,7 @@
     />
     <meta name="twitter:image" content="https://gcascallares.github.io/Geral11/mini.jpg" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta itemprop="image" content="mini.png" />
+    <meta itemprop="image" content="https://gcascallares.github.io/Geral11/mini.jpg" />
 
     <title>Invitacion Geral</title>
 
@@ -112,7 +112,7 @@
                     <div class="detail-box">
                       <h1>Geral te invita a su cumpleaños!</h1>
                       <h2>
-                        Veni a festejar con nosotros el dia 16/05 desde las 00:00 hasta las 00:00.
+                        Veni a festejar con nosotros el dia 17/05 desde las 13:30 hasta las 16:30.
                       </h2>
                       <div class="btn-box">
                         <audio
@@ -213,13 +213,13 @@
               <div class="heading_container">
                 <h2>Direccion</h2>
               </div>
-              <h3>Enrique Rossi 1240, Libertad.</h3>
+             <h3>Club Ganadero, Manuel Acevedo 47, Ituzaingó.</h3>
             </div>
           </div>
           <div class="col-md-8">
             <div class="img-box">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.539588103326!2d-58.67763322425593!3d-34.69156787292286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc0e5f8380421%3A0x2f3376bc89540476!2sEnrique%20Rossi%201240%2C%20B1716%20Libertad%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1744655674272!5m2!1ses!2sar"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d820.4096884881276!2d-58.694223824215854!3d-34.66382499999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbf08a8e47c05%3A0x66d09bc5c21d68a0!2sGanadero%20f%C3%BAtbol%205!5e0!3m2!1ses-419!2sar!4v1778350009004!5m2!1ses-419!2sar"
                 width="100%"
                 height="100%"
                 frameborder="0"
